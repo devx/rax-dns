@@ -3,11 +3,11 @@
 This is a simple script that interacts with rackspace dns service. It currently
 supports the following:
 
-  [x] List Domains
-  [x] List records of a domain
-  [x] Add a record to a domain
-  [ ] Delete a record from a domain
-  [ ] Delete a domain
+  * [x] List Domains
+  * [x] List records of a domain
+  * [x] Add a record to a domain
+  * [ ] Delete a record from a domain
+  * [ ] Delete a domain
 
 # Requirements
 Install the required libraries from the requirements.txt file.
